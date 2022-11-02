@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* This is a comment! Text here will be ignored by the browser. */
+body {
+	margin: 0 auto;
+}
+.homePage {
+	background: #FA6E1B;
+}
+.container {
+	width: 100%px;
+	margin: 0 auto;
+}
+.header {
+	background: #D64418;
+	text-align: center;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 80px;
+	
+}
+.nav {
+	background: #D43526;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+.content {
+	background: #F51122;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.footer {
+	background: #EB6436;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
+body {
+     font: 100%/1.4 font-family: "Times New Roman", Times, serif;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000;
+}
+
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
