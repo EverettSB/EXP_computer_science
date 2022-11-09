@@ -51,6 +51,15 @@ body {
      margin: 20;
      padding: 20;
      color: #FF0000;
+ border-left-style: solid;
+      border-left-color: #6A93D4;
+      border-right-style: solid;
+      border-right-color: #6A93D4;
+      border-top-style: dotted;
+      border-top-color: #FF7400;
+      border-bottom-style: dotted;
+      border-bottom-color: #FF7400;
+      border-width: 5px;
 }
 
 a:link {
