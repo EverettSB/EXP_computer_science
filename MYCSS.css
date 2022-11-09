@@ -55,9 +55,9 @@ body {
       border-left-color: #6A93D4;
       border-right-style: solid;
       border-right-color: #6A93D4;
-      border-top-style: dotted;
+      border-top-style: solid;
       border-top-color: #FF7400;
-      border-bottom-style: dotted;
+      border-bottom-style: solid;
       border-bottom-color: #FF7400;
       border-width: 5px;
 }
