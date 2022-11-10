@@ -58,15 +58,6 @@ body {
 	text-align: center;
 }
 .content {
-	border-left-style: solid;
-      border-left-color: #8000ff;
-      border-right-style: solid;
-      border-right-color: #8000ff;
-      border-top-style: solid;
-      border-top-color: #8000ff;
-      border-bottom-style: solid;
-      border-bottom-color: #8000ff;
-      border-width: 20px;
 	background: #FFFFFF;
 	margin: 0px;
 	float: left;
